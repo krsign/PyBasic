@@ -1,2 +1,2 @@
 
-# Basic Python : using simple example
+# Basic Python : using simple program
